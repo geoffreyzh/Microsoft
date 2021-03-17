@@ -1,4 +1,4 @@
-# Microsoft
+# Office For Mac Uninstaller
 
 Office For Mac Uninstall Tool
 
